@@ -1,0 +1,3 @@
+results = model.train(data="Diplom_v1-2/data.yaml", epochs=30, imgsz=[15, 1000], batch=4)
+
+
