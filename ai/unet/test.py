@@ -19,7 +19,7 @@ colors = [
 ]
 
 model = UNetModel(in_channels=3, out_channels=4)
-model.load_state_dict(torch.load('runs/unet/unet_v2_epoch99.pth'))
+model.load_state_dict(torch.load('runs/23_05_25/unet/unet_v2_epoch99.pth'))
 model.eval()
 
 # ======== Подготовка изображения ========

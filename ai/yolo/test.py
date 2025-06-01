@@ -5,7 +5,7 @@ import numpy as np
 from ultralytics import YOLO
 
 
-model = YOLO("runs/detect/train/weights/best.pt")
+model = YOLO("runs/23_05_25/detect/train/weights/best.pt")
 
 
 def apply_yolo(image_path, project, name):

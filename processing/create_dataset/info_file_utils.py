@@ -91,4 +91,18 @@ if __name__ == "__main__":
     #     objects=["null"]
     # )
 
+    copy_images(
+        "../../data/info_left.txt",
+        "../../data/Исходные данные/deriv_images_v2/left",
+        "../../data/Размеченные данные/01_06_25_deriv_v2/original/annotated"
+    )
+
+    copy_images(
+        "../../data/info_null_left.txt",
+        "../../data/Исходные данные/deriv_images_v2/left",
+        "../../data/Размеченные данные/01_06_25_deriv_v2/original/null",
+        prefix="e",
+        objects=["null"]
+    )
+
     pass

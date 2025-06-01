@@ -1,0 +1,250 @@
+Этот файл содержит "интересный" null-изображения. Которые также необходимы в нашем датасете.
+
+left_1     0      null
+left_1     1      null
+left_1     2      null
+left_1     3      null
+left_1     4      null
+left_1     9      null
+left_1     10     null
+left_1     45     null
+left_1     46     null
+left_1     47     null
+
+left_4     3      null
+left_4     4      null
+left_4     5      null
+left_4     6      null
+left_4     10     null
+left_4     11     null
+left_4     12     null
+left_4     13     null
+left_4     14     null
+left_4     15     null
+left_4     39     null
+left_4     40     null
+left_4     41     null
+left_4     42     null
+
+left_6     14     null
+left_6     15     null
+left_6     16     null
+left_6     17     null
+left_6     18     null
+left_6     19     null
+left_6     20     null
+left_6     21     null
+left_6     22     null
+left_6     23     null
+left_6     24     null
+left_6     29     null
+left_6     38     null
+left_6     39     null
+left_6     40     null
+left_6     44     null
+
+left_7     5      null
+left_7     15     null
+
+left_8     0      null
+left_8     1      null
+left_8     2      null
+left_8     3      null
+left_8     4      null
+left_8     5      null
+left_8     6      null
+left_8     7      null
+left_8     9      null
+left_8     30     null
+left_8     31     null
+left_8     32     null
+left_8     33     null
+left_8     34     null
+left_8     40     null
+left_8     48     null
+
+left_13    0      null
+left_13    1      null
+left_13    2      null
+left_13    3      null
+left_13    4      null
+left_13    5      null
+left_13    6      null
+left_13    7      null
+left_13    34     null
+left_13    36     null
+
+left_14    1      null
+left_14    4      null
+left_14    22     null
+left_14    34     null
+left_14    45     null
+
+left_15    45     null
+left_15    46     null
+left_15    47     null
+left_15    48     null
+left_15    49     null
+
+left_16    32     null
+left_16    33     null
+left_16    34     null
+left_16    35     null
+left_16    36     null
+
+left_18    9      null
+left_18    11     null
+left_18    12     null
+left_18    17     null
+left_18    24     null
+
+left_21    3      null
+left_21    41     null
+left_21    43     null
+
+left_22    0      null
+left_22    7      null
+left_22    9      null
+left_22    21     null
+left_22    45     null
+
+left_27    0      null
+left_27    17     null
+left_27    29     null
+left_27    31     null
+left_27    46     null
+
+left_34    8      null
+left_34    39     null
+left_34    40     null
+left_34    41     null
+left_34    42     null
+
+left_34    0      null
+left_34    2      null
+left_34    3      null
+left_34    4      null
+left_34    41     null
+left_34    43     null
+left_34    45     null
+left_34    46     null
+left_34    47     null
+left_34    48     null
+left_34    49     null
+
+left_47    18     null
+left_47    19     null
+left_47    29     null
+left_47    30     null
+left_47    34     null
+left_47    35     null
+left_47    36     null
+left_47    37     null
+left_47    47     null
+left_47    48     null
+left_47    49     null
+
+left_48    10     null
+left_48    12     null
+left_48    25     null
+left_48    26     null
+left_48    34     null
+left_48    35     null
+left_48    40     null
+left_48    42     null
+left_48    44     null
+left_48    45     null
+left_48    49     null
+
+left_49    2      null
+left_49    3      null
+left_49    4      null
+left_49    5      null
+left_49    6      null
+left_49    7      null
+left_49    8      null
+left_49    9      null
+left_49    10     null
+left_49    11     null
+left_49    34     NULL
+left_49    45     null
+left_49    46     null
+left_49    47     null
+
+left_50    1      null
+left_50    2      null
+left_50    3      null
+left_50    7      null
+left_50    28     null
+left_50    31     null
+left_50    34     null
+left_50    35     null
+left_50    43     null
+left_50    44     null
+left_50    49     null
+
+left_51    4      null
+left_51    12     null
+left_51    14     null
+left_51    42     null
+left_51    49     null
+
+left_55    0      null
+left_55    1      null
+left_55    2      null
+left_55    8      null
+left_55    10     null
+left_55    19     null
+left_55    26     null
+left_55    28     null
+left_55    30     null
+left_55    40     null
+left_55    42     null
+
+left_57    7      null
+left_57    8      null
+left_57    21      null
+left_57    22      null
+left_57    30      null
+left_57    35      null
+left_57    38      null
+left_57    46      null
+left_57    47      null
+left_57    48      null
+left_57    49      null
+
+left_68    4       null
+left_68    5       null
+left_68    7       null
+left_68    15      null
+left_68    17      null
+left_68    27      null
+left_68    45      null
+left_68    46      null
+left_68    47      null
+left_68    48      null
+left_68    49      null
+
+left_99    6       null
+left_99    14      null
+
+left_109   26      null
+left_109   40      null
+
+left_115   20      null
+left_115   22      null
+left_115   23      null
+left_115   24      null
+left_115   25      null
+
+left_164   18      null
+left_164   19      null
+left_164   20      null
+left_164   21      null
+left_164   22      null
+
+left_222   15      null
+left_222   16      null
+left_222   17      null
+left_222   18      null
+left_222   19      null

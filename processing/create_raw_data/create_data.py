@@ -17,7 +17,7 @@ def create_graph_and_image(data_folder, side="left", create_graph=True):
             input_txt_file = os.path.join(data_folder + f"/txts/{side}", file)
             flaw_detector_data = get_transpose_data_from_file(input_txt_file)  # shape: [15, N]
 
-            image_folder = f"{data_folder}/union_images/{side}/{name}"
+            image_folder = f"{data_folder}/deriv_images_v2/{side}/{name}"
             graph_folder = f"{data_folder}/graphs/{side}/{name}"
             os.makedirs(image_folder, exist_ok=True)
 
@@ -28,7 +28,7 @@ def create_graph_and_image(data_folder, side="left", create_graph=True):
                 values = flaw_detector_data[:, i * 1000: (i + 1) * 1000]
 
                 output_img_file = f"{image_folder}/{i}.png"
-                create_image_from_file(values, output_img_file)
+                create_image_from_file(values, output_img_file, save=True)
 
                 if create_graph:
                     output_graph_file = f"{graph_folder}/{i}.jpg"
@@ -37,13 +37,12 @@ def create_graph_and_image(data_folder, side="left", create_graph=True):
 
 def main():
 
-    # create_graph_and_image(
-    #     "../../data/Исходные данные",
-    #     "left",
-    #     False
-    # )
+    create_graph_and_image(
+        "../../data/Исходные данные",
+        "left",
+        False
+    )
 
-    pass
 
 
 if __name__ == "__main__":
